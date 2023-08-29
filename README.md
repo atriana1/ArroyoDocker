@@ -16,4 +16,4 @@ docker exec -it arroyo-apache /bin/bash
 
 #  Download Image
 
-docker push atriana1/arroyo_devops:1.0
+docker pull atriana1/arroyo_devops:1.0
